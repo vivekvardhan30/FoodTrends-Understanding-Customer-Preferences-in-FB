@@ -23,77 +23,77 @@ The project is structured in four milestones, each building on the previous to e
 
 **🥇 Milestone 1** **– Data Cleaning & Preparation (Week 2)**
 
-Cleaned raw datasets (surveys, reviews, social data) to remove duplicates and inconsistencies.
+- Cleaned raw datasets (surveys, reviews, social data) to remove duplicates and inconsistencies.
 
-Standardized key columns such as Product_ID, User_ID, Sentiment Score, Feedback Date, and Satisfaction Score.
+- Standardized key columns such as Product_ID, User_ID, Sentiment Score, Feedback Date, and Satisfaction Score.
 
-Validated data model relationships for transformation readiness.
+- Validated data model relationships for transformation readiness.
 
-Ensured a unified schema for seamless integration into Power BI.
+- Ensured a unified schema for seamless integration into Power BI.
 
 **🥈 Milestone 2** **– Sentiment Classification & Visualization (Week 4)**
 
-Categorized Sentiment Scores into Positive, Negative, and Neutral using calculated DAX fields.
+- Categorized Sentiment Scores into Positive, Negative, and Neutral using calculated DAX fields.
 
-Created measures to calculate sentiment percentages and total review counts.
+- Created measures to calculate sentiment percentages and total review counts.
 
-Designed an interactive dashboard showing:
+- Designed an interactive dashboard showing:
 
-City-wise sentiment distribution (Map visual)
+- City-wise sentiment distribution (Map visual)
 
-Sentiment composition (Donut chart)
+- Sentiment composition (Donut chart)
 
-Product-level sentiment breakdown (Stacked bar chart)
+- Product-level sentiment breakdown (Stacked bar chart)
 
-Summary KPI cards for quick insights
+- Summary KPI cards for quick insights
 
-Enhanced data storytelling through tooltips and consistent color theming.
+- Enhanced data storytelling through tooltips and consistent color theming.
 
 **🥉 Milestone 3** **– Product-Level Performance (Week 6)**
 
-Built a category performance dashboard focusing on taste, price, and satisfaction.
+- Built a category performance dashboard focusing on taste, price, and satisfaction.
 
-Implemented cross-filtering between visuals to compare sentiment and product-level feedback dynamically.
+- Implemented cross-filtering between visuals to compare sentiment and product-level feedback dynamically.
 
-Added key visuals:
+  Added key visuals:
 
-Scatter plot correlating price with sentiment score
+    - Scatter plot correlating price with sentiment score
 
-Stacked column chart for product comparison
+    - Stacked column chart for product comparison
 
-Word cloud visualizing frequent feedback terms
+    - Word cloud visualizing frequent feedback terms
 
-KPI cards summarizing total reviews, average price, and sentiment balance
+    - KPI cards summarizing total reviews, average price, and sentiment balance
 
-Improved dashboard layout for a clean, user-friendly experience with proper alignment and visual hierarchy.
+- Improved dashboard layout for a clean, user-friendly experience with proper alignment and visual hierarchy.
 
 **🏆 Milestone 4** **– Customer Segmentation & Personas (Week 8)**
 
-Developed segmentation logic combining feedback frequency and sentiment behavior.
+- Developed segmentation logic combining feedback frequency and sentiment behavior.
 
-Classified customers into personas:
+  Classified customers into personas:
 
-Frequent Positive
+    - Frequent Positive
 
-Frequent Negative
+    - Frequent Negative
 
-Occasional
+    - Occasional
 
-Mixed Behavior
+    - Mixed Behavior
 
-Created slicers for region, cuisine, and sentiment filters for dynamic exploration.
+- Created slicers for region, cuisine, and sentiment filters for dynamic exploration.
 
-Added a Feedback Frequency DAX measure based on recent activity.
+- Added a Feedback Frequency DAX measure based on recent activity.
 
 Designed an interactive persona dashboard featuring:
 
-Customer sentiment segmentation visuals
+- Customer sentiment segmentation visuals
 
-Region- and cuisine-based filters
+- Region- and cuisine-based filters
 
-KPI cards summarizing sentiment mix per persona
+- KPI cards summarizing sentiment mix per persona
 
-Navigation buttons and a clean UX for professional presentation
+- Navigation buttons and a clean UX for professional presentation
 
 **💡 Key Features**
 
@@ -109,27 +109,27 @@ Navigation buttons and a clean UX for professional presentation
 
 **🛠️ Tools & Technologies**
 
-Power BI (Desktop & Service)
+- Power BI (Desktop & Service)
 
-DAX (Data Analysis Expressions)
+- DAX (Data Analysis Expressions)
 
-Excel / CSV data sources
+- Excel / CSV data sources
 
-Data modeling and relationships
+- Data modeling and relationships
 
-Power Query (ETL)
+- Power Query (ETL)
 
 **📈 Impact**
 
-This project enables data-driven decisions by helping food brands:
+- This project enables data-driven decisions by helping food brands:
 
-Identify high-performing and low-performing products.
+- Identify high-performing and low-performing products.
 
-Understand customer satisfaction patterns across regions.
+- Understand customer satisfaction patterns across regions.
 
-Detect sentiment trends and feedback frequency.
+- Detect sentiment trends and feedback frequency.
 
-Segment customers for targeted engagement and strategy planning.
+- Segment customers for targeted engagement and strategy planning.
 
 
 **📅 Milestone Timeline**
