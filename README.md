@@ -1,4 +1,4 @@
-**🍽️Customer Sentiment Analysis Dashboard – Power BI**
+**🍽️Customer Sentiment Analysis Dashboard – Power BI**\n
 **📘 Overview**
 
 This project focuses on analyzing customer feedback and sentiment in the food industry to help brands improve their products, pricing, and customer experience.
