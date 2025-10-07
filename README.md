@@ -20,7 +20,8 @@ Develop customer personas based on sentiment and feedback behavior.
 Create dynamic, interactive dashboards for decision-making.
 
 **🧩 My Contributions**
-**🥇 Milestone 1** – Data Cleaning & Preparation (Week 2)
+
+**🥇 Milestone 1** **– Data Cleaning & Preparation (Week 2)**
 
 Cleaned raw datasets (surveys, reviews, social data) to remove duplicates and inconsistencies.
 
@@ -30,7 +31,7 @@ Validated data model relationships for transformation readiness.
 
 Ensured a unified schema for seamless integration into Power BI.
 
-**🥈 Milestone 2** – Sentiment Classification & Visualization (Week 4)
+**🥈 Milestone 2** **– Sentiment Classification & Visualization (Week 4)**
 
 Categorized Sentiment Scores into Positive, Negative, and Neutral using calculated DAX fields.
 
@@ -48,7 +49,7 @@ Summary KPI cards for quick insights
 
 Enhanced data storytelling through tooltips and consistent color theming.
 
-**🥉 Milestone 3** – Product-Level Performance (Week 6)
+**🥉 Milestone 3** **– Product-Level Performance (Week 6)**
 
 Built a category performance dashboard focusing on taste, price, and satisfaction.
 
@@ -66,7 +67,7 @@ KPI cards summarizing total reviews, average price, and sentiment balance
 
 Improved dashboard layout for a clean, user-friendly experience with proper alignment and visual hierarchy.
 
-**🏆 Milestone 4** – Customer Segmentation & Personas (Week 8)
+**🏆 Milestone 4** **– Customer Segmentation & Personas (Week 8)**
 
 Developed segmentation logic combining feedback frequency and sentiment behavior.
 
@@ -132,6 +133,7 @@ Segment customers for targeted engagement and strategy planning.
 
 
 **📅 Milestone Timeline**
+
 | Milestone | Description                      | Duration |
 | --------- | -------------------------------- | -------- |
 | 1         | Data Cleaning & Standardization  | Week 2   |
