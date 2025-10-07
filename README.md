@@ -9,15 +9,15 @@ The project is structured in four milestones, each building on the previous to e
 
 **🚀 Objectives**
 
-Clean, standardize, and unify customer feedback data.
+- Clean, standardize, and unify customer feedback data.
 
-Identify sentiment trends (Positive, Negative, Neutral).
+- Identify sentiment trends (Positive, Negative, Neutral).
 
-Evaluate product-level performance (taste, price, satisfaction).
+- Evaluate product-level performance (taste, price, satisfaction).
 
-Develop customer personas based on sentiment and feedback behavior.
+- Develop customer personas based on sentiment and feedback behavior.
 
-Create dynamic, interactive dashboards for decision-making.
+- Create dynamic, interactive dashboards for decision-making.
 
 **🧩 My Contributions**
 
