@@ -20,77 +20,77 @@ As part of the Customer Sentiment Analysis of Food Reviews project, I contribute
 
 **🥇 Milestone 1** **– Data Cleaning & Preparation (Week 2)**
 
-- Cleaned raw datasets (surveys, reviews, social data) to remove duplicates and inconsistencies.
-
-- Standardized key columns such as Product_ID, User_ID, Sentiment Score, Feedback Date, and Satisfaction Score.
-
-- Validated data model relationships for transformation readiness.
-
-- Ensured a unified schema for seamless integration into Power BI.
+  - Cleaned raw datasets (surveys, reviews, social data) to remove duplicates and inconsistencies.
+  
+  - Standardized key columns such as Product_ID, User_ID, Sentiment Score, Feedback Date, and Satisfaction Score.
+  
+  - Validated data model relationships for transformation readiness.
+  
+  - Ensured a unified schema for seamless integration into Power BI.
 
 **🥈 Milestone 2** **– Sentiment Classification & Visualization (Week 4)**
 
-- Categorized Sentiment Scores into Positive, Negative, and Neutral using calculated DAX fields.
-
-- Created measures to calculate sentiment percentages and total review counts.
-
-- Designed an interactive dashboard showing:
-
-- City-wise sentiment distribution (Map visual)
-
-- Sentiment composition (Donut chart)
-
-- Product-level sentiment breakdown (Stacked bar chart)
-
-- Summary KPI cards for quick insights
-
-- Enhanced data storytelling through tooltips and consistent color theming.
+  - Categorized Sentiment Scores into Positive, Negative, and Neutral using calculated DAX fields.
+  
+  - Created measures to calculate sentiment percentages and total review counts.
+  
+  - Designed an interactive dashboard showing:
+  
+  - City-wise sentiment distribution (Map visual)
+  
+  - Sentiment composition (Donut chart)
+  
+  - Product-level sentiment breakdown (Stacked bar chart)
+  
+  - Summary KPI cards for quick insights
+  
+  - Enhanced data storytelling through tooltips and consistent color theming.
 
 **🥉 Milestone 3** **– Product-Level Performance (Week 6)**
 
-- Built a category performance dashboard focusing on taste, price, and satisfaction.
-
-- Implemented cross-filtering between visuals to compare sentiment and product-level feedback dynamically.
-
-  Added key visuals:
-
-    - Scatter plot correlating price with sentiment score
-
-    - Stacked column chart for product comparison
-
-    - Word cloud visualizing frequent feedback terms
-
-    - KPI cards summarizing total reviews, average price, and sentiment balance
-
-- Improved dashboard layout for a clean, user-friendly experience with proper alignment and visual hierarchy.
+  - Built a category performance dashboard focusing on taste, price, and satisfaction.
+  
+  - Implemented cross-filtering between visuals to compare sentiment and product-level feedback dynamically.
+  
+    Added key visuals:
+  
+      - Scatter plot correlating price with sentiment score
+  
+      - Stacked column chart for product comparison
+  
+      - Word cloud visualizing frequent feedback terms
+  
+      - KPI cards summarizing total reviews, average price, and sentiment balance
+  
+  - Improved dashboard layout for a clean, user-friendly experience with proper alignment and visual hierarchy.
 
 **🏆 Milestone 4** **– Customer Segmentation & Personas (Week 8)**
 
-- Developed segmentation logic combining feedback frequency and sentiment behavior.
-
-  Classified customers into personas:
-
-    - Frequent Positive
-
-    - Frequent Negative
-
-    - Occasional
-
-    - Mixed Behavior
-
-- Created slicers for region, cuisine, and sentiment filters for dynamic exploration.
-
-- Added a Feedback Frequency DAX measure based on recent activity.
-
-Designed an interactive persona dashboard featuring:
-
-- Customer sentiment segmentation visuals
-
-- Region- and cuisine-based filters
-
-- KPI cards summarizing sentiment mix per persona
-
-- Navigation buttons and a clean UX for professional presentation
+  - Developed segmentation logic combining feedback frequency and sentiment behavior.
+  
+    Classified customers into personas:
+  
+      - Frequent Positive
+  
+      - Frequent Negative
+  
+      - Occasional
+  
+      - Mixed Behavior
+  
+  - Created slicers for region, cuisine, and sentiment filters for dynamic exploration.
+  
+  - Added a Feedback Frequency DAX measure based on recent activity.
+  
+  Designed an interactive persona dashboard featuring:
+  
+  - Customer sentiment segmentation visuals
+  
+  - Region- and cuisine-based filters
+  
+  - KPI cards summarizing sentiment mix per persona
+  
+  - Navigation buttons and a clean UX for professional presentation
 
 **💡 Key Features**
 
