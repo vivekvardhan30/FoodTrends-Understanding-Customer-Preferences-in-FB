@@ -2,10 +2,7 @@
 
 **📘 Overview**
 
-This project focuses on analyzing customer feedback and sentiment in the food industry to help brands improve their products, pricing, and customer experience.
-The analysis integrates survey data, social media feedback, and online reviews to derive actionable insights using Power BI.
-
-The project is structured in four milestones, each building on the previous to enhance data quality, depth, and interactivity.
+As part of the Customer Sentiment Analysis of Food Reviews project, I contributed end-to-end to the design, analysis, and visualization of customer feedback data using Power BI. My focus was on transforming raw feedback into meaningful insights that help food brands understand customer preferences, satisfaction levels, and sentiment trends.
 
 **🚀 Objectives**
 
@@ -140,3 +137,7 @@ Designed an interactive persona dashboard featuring:
 | 2         | Sentiment Analysis Dashboard     | Week 4   |
 | 3         | Product Performance Dashboard    | Week 6   |
 | 4         | Customer Segmentation & Personas | Week 8   |
+
+**🧠 Impact**
+
+My contributions helped transform unstructured customer reviews into a structured, interactive, and business-ready analytics system. The Power BI dashboard now enables data-driven decisions for improving food quality, pricing strategy, and customer experience.
