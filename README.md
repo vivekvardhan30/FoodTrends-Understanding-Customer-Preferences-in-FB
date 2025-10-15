@@ -68,7 +68,7 @@ As part of the Customer Sentiment Analysis of Food Reviews project, I contribute
 
   - Developed segmentation logic combining feedback frequency and sentiment behavior.
   
-    Classified customers into personas:
+  - Classified customers into personas:
   
       - Frequent Positive
   
@@ -82,52 +82,43 @@ As part of the Customer Sentiment Analysis of Food Reviews project, I contribute
   
   - Added a Feedback Frequency DAX measure based on recent activity.
   
-  Designed an interactive persona dashboard featuring:
+  - Designed an interactive persona dashboard featuring:
   
-  - Customer sentiment segmentation visuals
-  
-  - Region- and cuisine-based filters
-  
-  - KPI cards summarizing sentiment mix per persona
-  
-  - Navigation buttons and a clean UX for professional presentation
+    - Customer sentiment segmentation visuals
+    
+    - Region- and cuisine-based filters
+    
+    - KPI cards summarizing sentiment mix per persona
+    
+    - Navigation buttons and a clean UX for professional presentation
 
 **💡 Key Features**
 
-📊 Multi-layer dashboards (4 pages – from sentiment overview to persona insights)
-
-⚙️ DAX-driven measures for sentiment classification, percentages, and personas
-
-🌍 Interactive maps for location-based sentiment analysis
-
-🎨 Custom color themes & modern UI with navigation buttons
-
-🧠 Actionable insights linking sentiment with product quality, price, and frequency
+  📊 Multi-layer dashboards (4 pages – from sentiment overview to persona insights)
+  
+  ⚙️ DAX-driven measures for sentiment classification, percentages, and personas
+  
+  🌍 Interactive maps for location-based sentiment analysis
+  
+  🎨 Custom color themes & modern UI with navigation buttons
+  
+  🧠 Actionable insights linking sentiment with product quality, price, and frequency
 
 **🛠️ Tools & Technologies**
 
-- Power BI (Desktop & Service)
+  - Power BI (Desktop & Service)
+  
+  - DAX (Data Analysis Expressions)
+  
+  - Excel / CSV data sources
+  
+  - Data modeling and relationships
+  
+  - Power Query (ETL)
 
-- DAX (Data Analysis Expressions)
+**🧠 Impact**
 
-- Excel / CSV data sources
-
-- Data modeling and relationships
-
-- Power Query (ETL)
-
-**📈 Impact**
-
-- This project enables data-driven decisions by helping food brands:
-
-- Identify high-performing and low-performing products.
-
-- Understand customer satisfaction patterns across regions.
-
-- Detect sentiment trends and feedback frequency.
-
-- Segment customers for targeted engagement and strategy planning.
-
+My contributions helped transform unstructured customer reviews into a structured, interactive, and business-ready analytics system. The Power BI dashboard now enables data-driven decisions for improving food quality, pricing strategy, and customer experience.
 
 **📅 Milestone Timeline**
 
@@ -138,6 +129,4 @@ As part of the Customer Sentiment Analysis of Food Reviews project, I contribute
 | 3         | Product Performance Dashboard    | Week 6   |
 | 4         | Customer Segmentation & Personas | Week 8   |
 
-**🧠 Impact**
 
-My contributions helped transform unstructured customer reviews into a structured, interactive, and business-ready analytics system. The Power BI dashboard now enables data-driven decisions for improving food quality, pricing strategy, and customer experience.
